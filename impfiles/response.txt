@@ -1,0 +1,229 @@
+post_1
+Here are the extracted details:
+
+* Event Name: Hacked Beta 2024
+* Date: November 9-10 (2 days)
+* Time: Not specified
+* Location: DICE, 8TH FLOOR
+* Food: Not Specified
+--------------------------
+post_2
+Here are the extracted details:
+
+* Event Name: CHOMPE BAKE SALE
+* Date: Oct 15th & 16th (2 days)
+* Time: 10am-2pm
+* Location: U of A ETLC ATRIUM
+* Food: Yes
+--------------------------
+post_3
+Here are the extracted details:
+
+* Event Name: FALL SGM
+* Date: 25TH SEPT (in simple format)
+* Time: 5PM
+* Location: DICE 8-207
+* Food: Yes (*FREE PIZZA*)
+--------------------------
+post_4
+Here are the extracted details:
+
+* Event Name: Nursing + Engineering BOARD GAME MIXER
+* Date: November 6th
+* Time: 4:30-8
+* Location: Cascade Room (SUB)
+* Food: Not Specified
+--------------------------
+post_5
+Here are the extracted details:
+
+**Event Name:** ENGINEERING BOARD GAME MIXER
+
+**Date:** November 6th
+**Time:** 4:30-8 PM (Note: Time is not in a simple format, but I've kept it as is)
+
+**Location:** Cascade Room at SUB (Student Union Building), University of Alberta
+
+**Food:** Not Specified
+--------------------------
+post_6
+Here are the extracted details:
+
+**Event Name:** Canadian Engineering Leadership Conference (CELC)
+
+**Date:** November 3rd, 2024
+
+**Time:** Not specified
+
+**Location:** University of New Brunswick, Fredericton
+
+**Food:** Not Specified
+--------------------------
+post_7
+Here are the extracted details:
+
+* Event Name: Annual General Survey
+* Date: 2024-2025 (Note: This is a range of years, not a specific date)
+* Time: Not Specified
+* Location: ENGINEERING Students' Society (as given)
+* Food: Not Specified
+--------------------------
+post_8
+Here are the extracted details:
+
+**Event Name:** Limited Edition Engineering Paper Release
+
+**Date:** Not specified (no date mentioned)
+
+**Time:** Not specified (no time mentioned, appears to be a continuous or ongoing event)
+
+**Location:** GEER Store (location not specified in simple format, but it's implied that it's at the store where the release is happening)
+
+**Food:** Not Specified
+--------------------------
+post_9
+Here are the extracted details:
+
+* Event Name: ESS Halloween
+* Date: Oct.28-Oct.31 (4 days)
+* Time: Not specified
+* Location: ENGINEERING BUILDINGS AND ENGG QUAD, UNIVERSITY OF ALBERTA
+* Food: Not Specified
+--------------------------
+post_10
+Here are the extracted details:
+
+* Event Name: GINE EERI UN UNIVERSITY OF ALBERTA ENGINEERING STUDENTS' SOCIETY GAME NIGHT
+* Date: Thursday, November 7th, 2024 (Simple format)
+* Time: Drop-in | 5:00-7:30PM (Simple format)
+* Location: GEER LOUNGE MEC E STH FLOOR (As given)
+* Food: Yes (~SNACKS AND DRINKS WILL
+--------------------------
+post_11
+Here are the extracted details:
+
+* Event Name: LOCKERS FOR SALE
+* Date: Not specified (only day of month mentioned, e.g. 5-8G)
+* Time: Not specified
+* Location: MecE 5-8G or email eeclub@ualberta.ca (Note: This is not a fixed location but rather an address and/or contact method for more information)
+* Food: Not Specified
+--------------------------
+post_12
+Here are the extracted details:
+
+* Event Name: CEESS x Comp-E Extravaganza
+* Date: Friday, Sept 27
+* Time: 5:00-9:00 PM
+* Location: 26171 Secondary Hwy 627, Spruce Grove, AB T7Y 1B3 (Note: This is a specific address)
+* Food: Yes (S'mores will be available)
+--------------------------
+post_13
+Here are the extracted details:
+
+* Event Name: Volleyball Tournament
+* Date: October 26th
+* Time: 8:30AM-5PM
+* Location: Main Gym, University of Alberta (UOFA)
+* Food: Not Specified
+--------------------------
+post_14
+Here are the extracted details:
+
+* Event Name: VOLUNTEER WITH US!
+* Date: Not specified
+* Time: Not specified
+* Location: Not specified (only a link to bio is provided)
+* Food: Not Specified
+--------------------------
+post_15
+Here are the extracted details:
+
+* Event Name: Halloween Party
+* Date: November 1st, 2024
+* Time: 9:00pm
+* Location: At The Pint on Whyte (Public House)
+* Food: Yes (Tickets cover a 1 oz prepaid highball)
+--------------------------
+post_16
+Here are the extracted details:
+
+**Event Name:** Electrical
+
+**Date:** 31 (month not specified, but appears to be January)
+
+**Time:** Not Specified (but seems to indicate a morning event, given the "7" and "19")
+
+**Location:** Didiera
+--------------------------
+post_17
+Here are the extracted details:
+
+* Event Name: ALBERTASAT × EE WORKSHOP!
+* Date: October 18th
+* Time: ECERF W2-010 (18:00 - 21:00)
+* Location: Not specified in this text, but it's mentioned that registration is in "BIO" which might be a link or location.
+* Food: Not Specified
+--------------------------
+post_18
+Here are the extracted details:
+
+* Event Name: E2-C2 2024
+* Date: September 28th, 2024
+* Time: Not specified (only day of month)
+* Location: ECERF W2-090 & ELKO, Engineering Garage
+* Food: Not Specified
+--------------------------
+post_20
+Here are the extracted details:
+
+* Event Name: Slime Night!
+* Date: Oct 16, 2024
+* Time: 5 PM - 7 PM
+* Location: ETLO Solarium (Note: This appears to be a venue or location)
+* Food: Not Specified
+--------------------------
+post_21
+Here are the extracted details:
+
+* Event Name: EECERT
+* Date: Not specified (only "OPEN NOW!")
+* Time: Not specified (only "OPEN NOW!")
+* Location: Not given in text, but it's implied to be online since a link is provided in bio.
+* Food: Not Specified
+--------------------------
+post_22
+Here are the extracted details:
+
+* Event Name: Fall AGM
+* Date: September 23rd
+* Time: 6PM - 7:30 PM
+* Location: ETLC Solarium (Note: This is a specific room within the location, but I've included it as-is)
+* Food: Yes
+--------------------------
+post_23
+Here are the extracted details:
+
+* Event Name: HALLOWEEN EVENT
+* Date: October 30, 2024
+* Time: Not specified (only day of month)
+* Location: ADA'S TEAM X COMPE X UACS 
+* Food: Not Specified
+--------------------------
+post_24
+Here are the extracted details:
+
+* Event Name: HALLOWEE!
+* Date: October 31
+* Time: 18:00 (6 PM)
+* Location: MEC E-5 GEER LOUNGE
+* Food: Not Specified
+--------------------------
+post_25
+Here are the extracted details:
+
+* Event Name: Chemical & Mechanical Engineering Bash
+* Date: 20th September (Simple format)
+* Time: Starts at 9 PM
+* Location: UofA SICS Club, Physics and Engineering Building 
+* Food: Not Specified
+--------------------------

@@ -1,0 +1,88 @@
+post_number: post_2
+Event Name: HACKED BETA 2024
+Date: November 9-10
+Time: Location: DICE 8TH FLOOR
+Location: DICE 8TH FLOOR
+Food: Not Specified
+Registration/Entry fee: Unknown 
+
+--------------------------
+post_number: post_4
+Event Name: CHEME COMPE MECE PRESENTS CHOMPE BAKE SALE
+Date: October 15th & 16th
+Time: 10AM-2PM
+Location: ETLC Atrium
+Food: Yes
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_number: post_7
+Event Name: FALL SGM!
+Date: September 25th
+Time: 5 PM
+Location: DICE 8-207
+Food: Yes
+Registration/Entry fee: Free 
+
+--------------------------
+post_number: post_9
+Event Name: Nursing + Engineering BOARD GAME MIXER
+Date: November 6th
+Time: 4:30-8
+Location: SUB: Cascade Room
+Food: Yes
+Registration/Entry fee: Free 
+
+--------------------------
+post_number: post_11
+Event Name: NURSING + ENGINEERING BOARD GAME MIXER
+Date: November 6th
+Time: 4:30-8
+Location: Cascade Room (lower level of SUB)
+Food: Yes
+Registration/Entry fee: Pre-registration recommended, drop-ins welcome
+
+--------------------------
+post_number: post_13
+Event Name: Canadian Engineering Leadership Conference (CELC)
+Date: January 1st-7th, 2025
+Time: Not Specified
+Location: University of New Brunswick, Fredericton
+Food: Not Specified
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_number: post_16
+Event Name: 2024-2025 ANNUAL GENERAL SURVEY 
+Date: Not Specified
+Time: Not Specified
+Location: Not Specified
+Food: Not Specified
+Registration/Entry fee: Not Specified
+
+--------------------------
+post_number: post_19
+Event Name: LIMITED EDITION ENGINEERING PAPER
+Date: Not Specified
+Time: Not Specified
+Location: GEER Store
+Food: Not Specified
+Registration/Entry fee: Not Specified
+
+--------------------------
+post_number: post_21
+Event Name: ESS Halloween DUCK Scavenger Hunt
+Date: Oct. 28 - Oct. 31
+Time: Not Specified
+Location: 5 Engineering Buildings and Engg Quad
+Food: Not Specified
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_number: post_24
+Event Name: Y2Q2 GAME NIGHT
+Date: November 7th, 2024
+Time: 5:00-7:30PM
+Location: GEER LOUNGE MEC E STH FLOOR
+Food: Yes
+Registration/Entry fee: Drop-in

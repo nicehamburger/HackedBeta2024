@@ -1,0 +1,341 @@
+post_1
+## post_1.txt
+Event Name: HACKED BETA 2024
+Date: November 9-10
+Time: 
+Location: DICE 8TH FLOOR
+Food: Not Specified
+Registration/Entry fee: Unknown 
+
+--------------------------
+post_2
+Here's the extracted information from the text:
+
+**post_2.txt**
+Event Name: CHEME COMPE MECE PRESENTS CHOMPE BAKE SALE
+Date: October 15th & 16th
+Time: 10AM-2PM
+Location: ETLC Atrium
+Food: Yes
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_3
+## Post 3 Details:
+
+post_number.txt: post_3
+Event Name: FALL SGM!
+Date: September 25th
+Time: 5 PM
+Location: DICE 8-207
+Food: Yes
+Registration/Entry fee: Free 
+
+--------------------------
+post_4
+Here is the text parsing output:
+
+**post_4.txt**
+Event Name: Nursing + Engineering BOARD GAME MIXER
+Date: November 6th
+Time: 4:30-8
+Location: SUB: Cascade Room
+Food: Yes
+Registration/Entry fee: Free 
+
+--------------------------
+post_5
+## Post Parsing:
+
+**post_5.txt**
+Event Name: NURSING + ENGINEERING BOARD GAME MIXER
+Date: November 6th
+Time: 4:30-8
+Location: Cascade Room (lower level of SUB)
+Food: Yes
+Registration/Entry fee: Pre-registration recommended, drop-ins welcome
+--------------------------
+post_6
+## Extracted Details:
+
+**post_6.txt**
+Event Name: Canadian Engineering Leadership Conference (CELC)
+Date: January 1st-7th, 2025
+Time: Not Specified
+Location: University of New Brunswick, Fredericton
+Food: Not Specified
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_7
+```
+post_number.txt: post_7
+Event Name: 2024-2025 ANNUAL GENERAL SURVEY 
+Date: Not Specified
+Time: Not Specified
+Location: Not Specified
+Food: Not Specified
+Registration/Entry fee: Not Specified
+```
+--------------------------
+post_8
+```
+post_number.txt: post_8
+Event Name: LIMITED EDITION ENGINEERING PAPER
+Date: Not Specified
+Time: Not Specified
+Location: GEER Store
+Food: Not Specified
+Registration/Entry fee: Not Specified
+``` 
+
+--------------------------
+post_9
+Here is the parsed data for the given text:
+
+**post_9.txt**
+Event Name: ESS Halloween DUCK Scavenger Hunt
+Date: Oct. 28 - Oct. 31
+Time: Not Specified
+Location: 5 Engineering Buildings and Engg Quad
+Food: Not Specified
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_10
+post_number.txt: post_10
+Event Name: Y2Q2 GAME NIGHT
+Date: November 7th, 2024
+Time: 5:00-7:30PM
+Location: GEER LOUNGE MEC E STH FLOOR
+Food: Yes
+Registration/Entry fee: Drop-in 
+
+--------------------------
+post_11
+post_1
+## post_1.txt
+
+Event Name: HACKED BETA 2024
+Date: November 9-10
+Time: Not Specified
+Location: DICE 8TH FLOOR
+Food: Not Specified
+Registration/Entry fee: Not Specified 
+
+--------------------------
+post_2
+## Text Parsing Output:
+
+**post_number.txt:** post_2
+
+**Event Name:** CHEME COMPE MECE PRESENTS CHOMPE BAKE SALE
+
+**Date:** October 15th & 16th
+
+**Time:** 10AM-2PM
+
+**Location:** ETLC Atrium
+
+**Food:** Yes
+
+**Registration/Entry fee:** Not Specified 
+
+--------------------------
+post_3
+```
+post_number.txt: post_3
+Event Name: FALL SGM!
+Date: SEPT 25TH
+Time: 5PM
+Location: DICE 8-207
+Food: Yes
+Registration/Entry fee:  
+```
+--------------------------
+post_4
+## Text Parsing Output:
+
+**post_number.txt:** post_4
+
+**Event Name:** Nursing + Engineering BOARD GAME MIXER 
+
+**Date:** November 6th
+
+**Time:** 4:30-8 
+
+**Location:** SUB: Cascade Room 
+
+**Food:** Yes
+
+**Registration/Entry fee:** Free 
+
+--------------------------
+post_5
+```
+post_number.txt: post_5
+Event Name: NURSING + ENGINEERING BOARD GAME MIXER
+Date: November 6th
+Time: 4:30-8
+Location: SUB Cascade Room
+Food: Yes
+Registration/Entry fee: Pre-register recommended, drop-ins welcome
+```
+--------------------------
+post_6
+```
+post_number.txt: post_6
+Event Name: Canadian Engineering Leadership Conference (CELC)
+Date: January 1st-7th, 2025
+Time: Not Specified
+Location: University of New Brunswick, Fredericton
+Food: Not Specified
+Registration/Entry fee: Not Specified
+```
+--------------------------
+post_7
+```
+post_number.txt: post_7
+Event Name: 2024-2025 ANNUAL GENERAL SURVEY
+Date: Not Specified
+Time: Not Specified
+Location: Not Specified
+Food: Not Specified
+Registration/Entry fee: Not Specified
+``` 
+
+--------------------------
+post_8
+```json
+{
+  "post_number.txt": "post_8",
+  "Event Name": "LIMITED EDITION ENGINEERING PAPER",
+  "Date": "Not Specified",
+  "Time": "Not Specified",
+  "Location": "GEER Store",
+  "Food": "Not Specified",
+  "Registration/Entry fee": "Not Specified"
+}
+```
+--------------------------
+post_9
+## Event Details:
+
+**post_number.txt:** 9
+
+**Event Name:** ESS Halloween DUCK Scavenger Hunt
+
+**Date:** Oct. 28 - Oct. 31
+
+**Time:**  Not Specified
+
+**Location:** 5 Engineering Buildings and Engg Quad
+
+**Food:** Not Specified
+
+**Registration/Entry fee:**  Not Specified 
+
+--------------------------
+post_10
+```
+post_number.txt: 10
+Event Name: Y2Q2 GAME NIGHT
+Date: November 7th
+Time: 5:00-7:30 PM
+Location: GEER LOUNGE MEC E STH FLOOR
+Food: Yes
+Registration/Entry fee: Drop-in 
+```
+--------------------------
+post_11
+```
+post_number.txt: 11
+Event Name: LOCKERS FOR SALE!
+Date: Not Specified
+Time: Not Specified
+Location: MecE 5-8G 
+Food: Not Specified
+Registration/Entry fee: $10/FIRST SEMESTER
+$5/ADDITIONAL SEMESTERS
+$5/LOCK RENTAL
+```
+--------------------------
+post_12
+```
+post_number.txt: 12
+Event Name: CI THE CEESS x Comp-E CORN MAZE Extravaganza
+Date: September 27
+Time: 5:00-9:00 PM
+Location: 26171 Secondary Hwy 627, Spruce Grove, AB T7Y 1B3
+Food: Yes
+Registration/Entry fee: $15
+```
+--------------------------
+post_13
+```
+post_number.txt: 13
+Event Name: Volleyball Tournament
+Date: October 26
+Time: 8:30AM-5PM
+Location: Main Gym
+Food: Not Specified
+Registration/Entry fee: $10
+```
+--------------------------
+post_14
+Here's the text parsing for your provided content:
+
+**post_number.txt:** 14
+
+**Event Name:** VOLUNTEER WITH US! 
+
+**Date:** Not Specified
+
+**Time:** Not Specified
+
+**Location:** Not Specified
+
+**Food:** Not Specified
+
+**Registration/Entry fee:** Not Specified 
+
+--------------------------
+post_15
+##  Text 1:
+post_number.txt: 15
+Event Name: Halloween Party
+Date: November 1st, 2024
+Time: 9:00pm
+Location: The Pint on Whyte
+Food: Not Specified
+Registration/Entry fee: $10
+
+## Text 2:
+post_number.txt:  
+Event Name: Halloween Party
+Date: November 1st, 2024
+Time: 9:00pm
+Location: The Pint on Whyte
+Food: Not Specified
+Registration/Entry fee: $7.00 (early bird), $10.00 (after Monday) 
+
+--------------------------
+post_16
+Here's the extracted information from the provided text, following your requested format:
+
+**post_number.txt: 16**
+
+**Event Name: Fall AGM** 
+**Date: Not Specified** 
+**Time: Not Specified** 
+**Location: Not Specified** 
+**Food: Not Specified** 
+**Registration/Entry fee: Not Specified** 
+
+**Explanation:**
+
+* The provided text lacks specific details about the date, time, location, food, and registration/entry fee for the "Fall AGM" event. 
+* The text focuses on welcoming attendees and provides a lighthearted ending with a mention of "Happy Alex and Sad Evan." 
+* While the text mentions the event being "done and over with," it doesn't explicitly state the date or time it occurred. 
+
+--------------------------
