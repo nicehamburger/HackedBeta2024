@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Event Website</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to My Event Website</h1>
+        </header>
+
+        <!-- Event 1 with Image -->
+        <div class="event-container">
+            <div class="event-image">
+                <img src="{{ url_for('static', filename='image-1.jpg') }}" alt="Image 1" class="image">
+                <p>This project is cute and aesthetic (just for your information)</p>
+            </div>
+
+            <div class="event-details">
+                <h2>HACKED BETA 2024</h2>
+                <p><strong>Date:</strong> November 9-10</p>
+                <p><strong>Time:</strong> Not Specified</p>
+                <p><strong>Location:</strong> DICE 8TH FLOOR</p>
+                <p><strong>Food:</strong> Not Specified</p>
+                <p><strong>Registration/Entry fee:</strong> Unknown</p>
+            </div>
+
+            
+
+        </div>
+
+        <!-- Event 2 with Image -->
+        <div class="event-container">
+            <div class="event-image">
+                <img src="{{ url_for('static', filename='image-2.jpg') }}" alt="Image 2" class="image">
+            </div>
+
+            <div class="event-details">
+                <h2>CHEME COMPE MECE PRESENTS CHOMPE BAKE SALE</h2>
+                <p><strong>Date:</strong> October 15th & 16th</p>
+                <p><strong>Time:</strong> 10 AM - 2 PM</p>
+                <p><strong>Location:</strong> ETLC Atrium</p>
+                <p><strong>Food:</strong> Yes</p>
+                <p><strong>Registration/Entry fee: Unspecified</p>
